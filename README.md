@@ -1,6 +1,6 @@
 # Qureshi_20212689_June_Exam
  
- ** Download GitHub Repository **
+ **Download GitHub Repository**
  
  You can either clone the GitHub Repository or download the files as a .zip file. 
 
@@ -40,6 +40,7 @@ OBS: To install the vector graphics package, you have to press '+' icon and use 
 
 
 **To Build and Run the Application on an Android Smartphone**
+
 Step 1: Under File, go to build settings
 Step 2: Under Build Settings, make sure that Android is the selected platform
 Step 3: Under Build Settings, go to Player Settings
