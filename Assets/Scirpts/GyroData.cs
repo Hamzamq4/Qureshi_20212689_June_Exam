@@ -44,14 +44,13 @@ public class GyroData : MonoBehaviour
         GyroX = x;
         GyroY = y;
 
-
-
-        //Data.text = Gyromums.ToString();
-
-
-
-
     }
+
+    /*public float GetGyromums()
+
+    {
+        return Gyromums;
+    }*/
 
     public float GetGyroX()
 
