@@ -1,0 +1,4 @@
+#Sun May 29 21:42:26 CEST 2022
+base.0=/Users/h-qureshi/git/Qureshi_20212689_June_Exam/Temp/gradleOut/launcher/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

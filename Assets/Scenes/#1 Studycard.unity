@@ -2655,8 +2655,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   objectsToSpawn:
-  - {fileID: 1235891321}
   - {fileID: 378719904}
+  - {fileID: 1235891321}
   - {fileID: 1232532991}
   popupCounter: 1
 --- !u!1 &1593814442
