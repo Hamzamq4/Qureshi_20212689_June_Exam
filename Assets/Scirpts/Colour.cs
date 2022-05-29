@@ -43,7 +43,7 @@ public class Colour : MonoBehaviour
 
 
         //renderer.color = Color.HSVToRGB(Gyromums % 1, 1, 1);
-        renderer.color = new Color(0.3f, GyroX, GyroY, 0.7f);
+        renderer.color = new Color(0.25f, GyroX, GyroY, 0.9f);
     }
 
 
