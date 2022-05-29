@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{522F2A59-68BB-084A-563F-FD535DE8E319}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scirpts/Spawner.cs">
+    <Files>
+      <File FileName="Assets/Scirpts/Colour.cs" Line="50" Column="2" />
+      <File FileName="Assets/Scirpts/GyroData.cs" Line="39" Column="1" />
+      <File FileName="Assets/Scirpts/Spawner.cs" Line="38" Column="37" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Qureshi_20212689_June_Exam" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="dcf06d01-cc95-42be-8b01-9c766f4f938b" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
